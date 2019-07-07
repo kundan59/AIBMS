@@ -16,13 +16,14 @@ attendance is maintain in a excel sheet which is updated automatically.
 
 # SYSTEM REQUIREMENT  
 A. SOFTWARE 
-OpenCV 
-OpenCV (Open Source Computer Vision Library) is an open source 
-computer vision and machine learning software library. 
+    OpenCV 
+
 Frontend  
- Python Tkinter 
+  Python Tkinter 
+
 BACKEND 
- SQLite 
+  SQLite 
+
 B. HARDWARE 
 Webcam or a camera with good resolution
 
